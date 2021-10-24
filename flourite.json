@@ -1,0 +1,27 @@
+{
+    "schemes": 
+    [
+        {
+            "background": "#000000",
+            "black": "#000000",
+            "blue": "#2472C8",
+            "brightBlack": "#7A887A",
+            "brightBlue": "#7380C6",
+            "brightCyan": "#73A4B8",
+            "brightGreen": "#68A57E",
+            "brightPurple": "#AC71B4",
+            "brightRed": "#CB4B16",
+            "brightWhite": "#DDD8D8",
+            "brightYellow": "#B9A573",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#11A8CD",
+            "foreground": "#D4D8E8",
+            "green": "#0DBC79",
+            "name": "Fluorite",
+            "purple": "#BC3FBC",
+            "red": "#CD3131",
+            "selectionBackground": "#FFFFFF",
+            "white": "#E5E5E5",
+            "yellow": "#D5D510"
+    ]
+}
